@@ -1,0 +1,17 @@
+/* Estilos medias */
+@media (max-width: 780px){
+  .backGround{
+    background-image: url(../assets/images/dawn.png);
+  }
+  .img{
+    background-image: url(../assets/images/kitten-large.png);
+  }
+}
+@media (max-width: 300px){
+  .backGround{
+    background-image: url(../assets/images/night.jpg);
+  }
+  .img{
+    background-image: url(../assets/images/kitten-small.png);
+  }
+}

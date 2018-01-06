@@ -1,0 +1,15 @@
+/* Estilos de las clases */
+.backGround {
+  background-image: url(../assets/images/sunny-day.jpg);
+  background-size: cover;
+  height: 600px;
+}
+.img{
+  background-image: url(../assets/images/kitten-medium.png);
+  background-size: contain;
+  height: 300px;
+  background-repeat: no-repeat;
+}
+.row-height{
+  height: 300px;
+}
